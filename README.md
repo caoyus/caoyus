@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 </div>
-<img align='right' src='https://i.loli.net/2021/05/14/9uGkb4mBLHyPg8w.gif' width='200'>
+<img align='right' src='https://cdn.jsdelivr.net/gh/moezx/cdn@3.2.1/img/other/iloli.gif' width='200'>
 
 前端码农
 
