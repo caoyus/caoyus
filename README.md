@@ -14,7 +14,7 @@
   ![Vue](https://img.shields.io/badge/-Vue-3b2e5a?style=plastic&logo=vue)
  
 
-[![lycHub's github stats](https://github-readme-stats.vercel.app/api?username=lycHub&theme=dark&show_icons=true)](https://github.com/caoyus)
+[![caoyus's github stats](https://github-readme-stats.vercel.app/api?username=caoyus&theme=dark&show_icons=true)](https://github.com/caoyus)
 
 ### 教程博客
 
