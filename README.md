@@ -4,7 +4,9 @@
 <h1 >Hi 👋, I'm caoyusong</h1>
 <!-- 浏览量和天气 -->
 <p>
+  this profile view
   <a align="left" href="https://count.caoyus.com/"><img src="https://count.getloli.com/get/@:caoyus"></a>
+  my city weather
   <img align="right" src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" >
 </p>
 <img align='right' src='https://cdn.jsdelivr.net/gh/moezx/cdn@3.2.1/img/other/iloli.gif' width='200'>
