@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 
-<h1 align="center">Hi 👋, I'm caoyusong</h1>
+<h1 >Hi 👋, I'm caoyusong</h1>
 <!-- 浏览量和天气 -->
 <p>
   <a href="https://count.caoyus.com/"><img src="https://count.getloli.com/get/@:caoyus"></a>
