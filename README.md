@@ -18,7 +18,7 @@
  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=caoyus&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="caoyus" />
-<img align='right' src='https://cdn.jsdelivr.net/gh/moezx/cdn@3.2.1/img/other/iloli.gif' width='200'>
+<img align='right' src='https://cdn.jsdelivr.net/gh/moezx/cdn@3.2.1/img/other/iloli.gif' width='140'>
 </p>
 
 
