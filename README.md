@@ -9,7 +9,7 @@
  
   <img align="right" src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" >
 </p>
-<img align='right' src='https://cdn.jsdelivr.net/gh/moezx/cdn@3.2.1/img/other/iloli.gif' width='200'>
+
 
 前端码农
 
@@ -18,6 +18,7 @@
  
 
 [![caoyus's github stats](https://github-readme-stats.vercel.app/api?username=caoyus&theme=dark&show_icons=true)](https://github.com/caoyus)
+<img align='right' src='https://cdn.jsdelivr.net/gh/moezx/cdn@3.2.1/img/other/iloli.gif' width='200'>
 
 ### 教程博客
 
